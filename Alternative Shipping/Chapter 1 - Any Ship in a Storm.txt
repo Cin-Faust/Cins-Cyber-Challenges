@@ -1,0 +1,11 @@
+It had been a long trip from your family home in London to Portsmouth docks where your new life abord ship awaits you. The trip had been made worse by the fog which had steadily rolled in, covering the scenery.
+
+There are several vessels docked and any one of them could be the one you are assigned to. You reach into your pocket and pull out the note your uncle gave you before you left. His handwriting is difficult to read at the best of times and in the rush to get you here, his scribbling is even more illegible.
+
+Squinting, straining and looking at the note from every possible angle, you eventually manage to work out some of the ship's serial number, it starts with S60 and then is either a 2 or a 7, followed by a 65 and the final letter is either a B or an E.
+
+You remember that all ships are allocated a unique serial number which is then painted on the ship's bow. This always starts with an S, followed by 5 digits and ends with a letter that acts as a checksum. There was also something to do with modular division and the number 10. You curse yourself for not being able to recall the exact method.
+
+You frantically look around, hoping to spot the ship by pure chance. Sadly you cannot see it, but you do manage to make out several others clearly: S79121A, S28542J, S91541A, S49795G and S97978A.
+
+What is the serial number of the ship you are looking for?
